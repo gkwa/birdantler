@@ -2,7 +2,7 @@ package cmd
 
 import (
 	"fmt"
-	
+
 	"github.com/gkwa/birdantler/version"
 	"github.com/spf13/cobra"
 )
